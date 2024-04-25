@@ -1,0 +1,48 @@
+/* Estilos para el encabezado */
+header h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* Estilos para las secciones */
+section p {
+    margin: 10px 0;
+}
+
+/* Estilos para negrita */
+strong {
+    font-weight: bold;
+}
+/* Estilo para el contenedor de imagen del título */
+/* Estilo para la imagen del título en el encabezado */
+header img {
+    display: block; /* Establece la imagen como un bloque */
+    margin: 0 auto; /* Centra la imagen */
+    width: 300px; /* Ancho de la imagen a 150 px */
+    height: 400px; /* Altura de la imagen a 150 px */
+}
+
+/* Estilo para la imagen en el footer */
+footer img {
+    display: block; /* Establece la imagen como un bloque */
+    margin: 0 auto; /* Centra la imagen */
+    width: 200px; /* Ancho de la imagen a 150 px */
+    height: auto; /* Altura de la imagen a 150 px */
+}
+
+.titulo{
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(209, 59, 131);
+    padding: 40px;
+}
+.texto{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.footer{
+    background-color: rgb(209, 59, 131);
+}
+
+
+
